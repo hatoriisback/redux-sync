@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 // import "./App.css";
 import Navbar from "./Components/Navbar";
-import Menu from "./Routers/Menu";
+import Menu from "./Routers/Routes";
 
 function App() {
   return (

@@ -34,6 +34,11 @@ export default function Navbar() {
               Contact
             </NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink className="nav-link" to="redux">
+              Redux
+            </NavLink>
+          </li>
         </ul>
         <form className="form-inline my-2 my-lg-0">
           <input
